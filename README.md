@@ -2,6 +2,8 @@
 
 This project contains a simple HTML and CSS implementation of a container (#outer) that holds three circular elements (#inner1, #inner2, and #inner3). The circles have different background colors and are styled using basic CSS properties, including borders, margin, and border-radius.
 
+<img src="C:\Users\Harsh mishra\OneDrive\Pictures\Screenshots\Screenshot 2024-12-01 225235.png">
+
 # Purpose 
 
 The goal of this project is to practice the use of div elements and applying CSS properties like height, width, border, margin, and border-radius. This exercise helps with understanding how to structure elements within a container and apply styles to achieve a clean, responsive design.
