@@ -1,5 +1,3 @@
-# traffic_light
-
 # Project Overview
 
 This project contains a simple HTML and CSS implementation of a container (#outer) that holds three circular elements (#inner1, #inner2, and #inner3). The circles have different background colors and are styled using basic CSS properties, including borders, margin, and border-radius.
