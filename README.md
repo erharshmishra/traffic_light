@@ -1,10 +1,12 @@
 # traffic_light
 
-Project Overview
-Practice Question 16 is a simple web project that demonstrates basic HTML and CSS layout techniques. The project consists of a container (#outer) containing three circular elements (#inner1, #inner2, #inner3), each styled with distinct background colors. The project serves as an exercise in understanding and applying fundamental CSS properties such as borders, margin, and border-radius to create visually appealing, well-structured designs.
+# Project Overview
 
-Features
-Responsive Layout: Elements within the container are spaced and styled using CSS properties to maintain a clean, organized layout.
+<p>Practice Question 16 is a simple web project that demonstrates basic HTML and CSS layout techniques. The project consists of a container (#outer) containing three circular elements (#inner1, #inner2, #inner3), each styled with distinct background colors. The project serves as an exercise in understanding and applying fundamental CSS properties such as borders, margin, and border-radius to create visually appealing, well-structured designs.</p>
+
+# Features
+
+<b>Responsive Layout:</b> Elements within the container are spaced and styled using CSS properties to maintain a clean, organized layout.
 Circular Elements: Three circular elements inside the container with different background colors.
 CSS Styling: Demonstrates the usage of CSS for positioning, styling, and visual effects.
 Technologies Used
