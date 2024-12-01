@@ -32,7 +32,7 @@ git clone https://github.com/yourusername/practice-question-16.git
 
 **Navigate to the project folder:**
 
-cd <filename>
+cd filename
 
 # Contributing
 Feel free to fork this repository, make changes, and submit pull requests. If you have any suggestions or improvements, open an issue to discuss them.
