@@ -7,7 +7,7 @@ This project is a foundational HTML and CSS layout exercise designed to reinforc
 The project consists of a simple HTML document containing an outer container (#outer) and three nested child elements (#inner1, #inner2, #inner3), each styled via a linked CSS file. The intent is to practice layout structuring and visual styling using modern HTML5 and CSS3 conventions.
 
 ## Preview 
-Demo Link : 
+Demo Link : https://traffic-light-2kre.onrender.com
 
 ## 📁 Project Structure
 ├── index.html     # Main HTML file <br>
